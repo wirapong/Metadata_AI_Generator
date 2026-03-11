@@ -1,0 +1,6 @@
+graphrag==0.3.6
+pandas
+streamlit
+tiktoken
+python-dotenv
+asyncio
